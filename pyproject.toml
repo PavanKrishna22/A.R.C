@@ -1,0 +1,22 @@
+[project]
+name = "ragbot"
+version = "0.1.0"
+description = "Production RAG Chatbot — Groq + ChromaDB + BGE + BM25"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.40.0",
+    "groq>=0.13.0",
+    "langchain>=0.3.0",
+    "langchain-chroma>=0.2.0",
+    "langchain-community>=0.3.0",
+    "langchain-text-splitters>=0.3.0",
+    "sentence-transformers>=3.3.0",
+    "chromadb>=0.5.0",
+    "pypdf>=5.0.0",
+    "python-dotenv>=1.0.0",
+    "rank-bm25>=0.2.2",
+    "markdown>=3.10.2",
+]
+
+[tool.uv]
+dev-dependencies = []
