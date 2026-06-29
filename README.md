@@ -6,6 +6,16 @@
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try A.R.C online:**
+
+### 👉 https://adaptive-reasoning-companion.streamlit.app/
+
+No installation required. Upload your own documents and start chatting instantly.
+
+---
+
 ## Overview
 
 A.R.C (Adaptive Reasoning Companion) is an intelligent chatbot capable of answering both **general knowledge** questions and **document-specific** questions.
@@ -18,7 +28,11 @@ The project is built entirely with **free and open-source technologies**, making
 
 # Demo
 
-> *(Add screenshots or GIFs here)*
+<img width="1364" height="649" alt="image" src="https://github.com/user-attachments/assets/a5cbdfd4-83b4-45a6-bb15-2762b8d623ad" />
+
+<img width="1365" height="651" alt="image" src="https://github.com/user-attachments/assets/37ff0ec7-204b-46f3-813a-1a432df27d70" />
+
+
 
 ```
 📄 Upload Documents
